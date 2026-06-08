@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+.npm/
+
+# slidev build output
+dist/
+.slidev/
+
+# exported deck
+knowledge-vsi-summary.pdf
+
+# os / editor cruft
+.DS_Store
+*.log
+.vscode/
+.idea/
