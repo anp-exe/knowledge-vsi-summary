@@ -1,0 +1,17 @@
+{
+  "name": "knowledge-vsi-summary",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "slidev --open",
+    "build": "slidev build --base ./",
+    "export": "slidev export --format pdf --with-toc --output knowledge-vsi-summary.pdf",
+    "export-spa": "slidev build --base ./ --out dist"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.50.0",
+    "@slidev/theme-default": "latest",
+    "playwright-chromium": "latest",
+    "vue": "^3.5.0"
+  }
+}
