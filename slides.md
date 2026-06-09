@@ -27,7 +27,7 @@ exportFilename: knowledge-vsi-summary
 ## What I learnt from Jennifer Nagel's *Knowledge: A Very Short Introduction*
 
 <div class="mt-12 opacity-80 text-lg">
-Anna · a reader's tour through epistemology
+Anna · <em>Knowledge: A Very Short Introduction</em> (OUP)
 </div>
 
 <!--
@@ -46,7 +46,7 @@ Pacing: don't rush the cover, let them read the subtitle. ~30s.
 3. **Fixing the recipe** — reliabilism & knowledge-first
 4. **The sceptic** — can we know anything at all?
 5. **Where knowledge comes from** — the special case of testimony
-6. **Contextualism** — why "know" changes weight with the situation ✨
+6. **Contextualism** — why "know" changes weight with the situation
 7. **Where I landed** — and the strongest objections
 
 <!--
@@ -376,7 +376,7 @@ layout: section
 ---
 
 # 6
-## Contextualism ✨
+## Contextualism 
 ### the part I came away convinced by
 
 <!--
@@ -425,28 +425,25 @@ How does the standard move? Through the **field of alternatives** you must rule 
 </div>
 <div>
 
-**The everyday case (your locked-door example):**
+**The Lee case (Nagel):**
 
-Glance at the door, see it shut → in a calm context you **know** it's locked.
+*Low stakes* — coworker Smith just wants his jacket. Lee: "Yes, I **know** — I locked
+it myself half an hour ago." Uncontroversial.
 
-Raise the stakes — *what if there's an intruder?* — and the same glance suddenly
-**isn't enough to "know."**
+*High stakes* — same locked door, same evidence, but now **four police officers** stop
+Lee. Can he still flatly say he *knows*?
 
 Nothing about the door changed. The **context** did.
 
 </div>
 </div>
 
-<div class="mt-2 opacity-70 text-sm">
-※ swap in the book's exact intruder / locked-door wording here from your highlight
-</div>
-
 <!--
 This is the slide YOU asked to emphasise. The relevant-alternatives machinery is the
-"how" behind the "tall" analogy: context sets which error-possibilities count. The
-intruder/locked-door case is the emotional payoff — raising stakes raises the bar with
-no change in the evidence. NOTE TO SELF: replace my reconstructed version with the
-book's actual phrasing of the example before presenting. Pacing: slow, ~80s.
+"how" behind the "tall" analogy: context sets which error-possibilities count. The Lee
+case is the emotional payoff — same door, same evidence, but when the POLICE ask, the
+stakes raise the bar with nothing physical changing. Tell the story as a story: pause
+before revealing it's police, not Smith. Pacing: slow, ~80s.
 -->
 
 ---
@@ -460,7 +457,7 @@ It **explains the mess.** Section 2's endless counterexamples make sense if "kno
 never one fixed bar to begin with.
 
 It **matches how we actually talk.** We really do demand more before saying "know" when
-it matters — a diagnosis, a verdict, a locked door with someone outside.
+it matters — a diagnosis, a verdict, or a locked door when it's the *police* asking.
 
 </div>
 <div>
@@ -536,7 +533,7 @@ The answer the talk argues: "depends who's asking, and what's at stake." ~20s.
 layout: end
 ---
 
-# Thank you ♡
+# Q&A
 
 **Knowledge isn't one fixed bar.**
 It's a link between a knower and a fact — measured against a standard that *moves with
